@@ -1,0 +1,8 @@
+{
+  "display_name": "Dangan Debug Test",
+  "loading_order": 100,
+  "js": "index.js",
+  "css": "",
+  "author": "debug",
+  "version": "0.1.0"
+}
